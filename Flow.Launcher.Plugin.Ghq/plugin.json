@@ -1,0 +1,12 @@
+{
+    "ID": "EF0D0C47-521C-45D0-AE2C-F409CC129226",
+    "ActionKeyword": "g",
+    "Name": "Ghq",
+    "Description": "Search local ghq repositories and open them in File Explorer",
+    "Author": "yuruyurau",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/yuruyurau/Flow.Launcher.Plugin.Ghq",
+    "IcoPath": "assets/icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.Ghq.dll"
+}
